@@ -635,3 +635,11 @@ window.UNIT.課文配圖 = {
   ]
 };
 /* ===== AUTO:課文配圖 END ===== */
+/* ===== AUTO:課文影片（由 補課文影片.py 產生，不要手改）START ===== */
+window.UNIT.課文影片 = {
+  "檔": "assets/video/kewen.mp4",
+  "封面": "assets/video/kewen_poster.jpg",
+  "秒數": 63.5,
+  "版本": "202611112135"
+};
+/* ===== AUTO:課文影片 END ===== */
